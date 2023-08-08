@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @lewys-miugo
-- 👀 I’m interested in webdevelopment and solving societal problems oe code at a time.
-- 🌱 I’m currently learning JS and C++
-- 💞️ I’m looking to collaborate on webtools to accelarate e-commerce & professionalism accessibility in Africa.
+- 👋 Hi, I’m @lewys-miugo .
+- 👀 My talents are in fullstack webdevelopment using Laravel ecosystem,PHP, MySQL & JavaScript.
+- 🌱 I’m currently learning Augemented Reality applications in websites especially the e-commerce space.
+- 💞️ I’m looking to collaborate on projects to accelarate commerce and general development of organizations.
+- 💞️ Massive fan of Art and Football.
 - 📫 How to reach me e-mail:lewiswambugu01@gmail.com
 
